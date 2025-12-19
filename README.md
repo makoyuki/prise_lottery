@@ -2,7 +2,7 @@
 
 prise lottery script and app form
 ## app form
-index.php
+- index.php
 - exit.php
 - review.php
 - thankyou.php
